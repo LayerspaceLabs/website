@@ -1,0 +1,8 @@
+{
+  "name": "layerspace",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./public" },
+  "routes": [
+    { "pattern": "layerspace.net", "custom_domain": true }
+  ]
+}
