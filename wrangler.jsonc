@@ -1,8 +1,6 @@
 {
   "name": "layerspace",
+  "account_id": "6763e504516e4dec9937ce3256a11989",
   "compatibility_date": "2026-11-01",
-  "assets": { "directory": "./public" },
-  "routes": [
-    { "pattern": "layerspace.net", "custom_domain": true }
-  ]
+  "assets": { "directory": "./public" }
 }
